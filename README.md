@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sana!
 
-- 🎓 I'm currently pursuing a Master's degree in Data Science at Bellevue University in Nebraska.  
+- 🎓 I'm a recent graduate with a Master's degree in Data Science at Bellevue University in Nebraska.  
 - 📊 I’ve gained hands-on experience in the full data pipeline — from data loading and cleaning to modeling and evaluation.  
 - 🛠️ My technical skills include **Python**, **SQL**, **Power BI**, **Tableau**, and the **Microsoft Office Suite** (Word, Excel, PowerPoint).  
 - 💼 I’ve completed several data projects that showcase my ability to extract insights and tell stories with data.
